@@ -1,0 +1,9 @@
+*.class
+/out/
+/build/
+/data/words.txt
+/data/report.txt
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
