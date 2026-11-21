@@ -1,13 +1,8 @@
-# Compiled Java output
 *.class
 /out/
 /build/
-
-# Local application data (may contain personal vocabulary)
 /data/words.txt
 /data/report.txt
-
-# IDE / OS files
 .vscode/
 .idea/
 .DS_Store
